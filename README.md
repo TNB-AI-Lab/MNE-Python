@@ -1,3 +1,5 @@
+![MNE-Python](https://github.com/TNB-AI-Lab/MNE-Python/assets/103449830/336d97bf-d655-4e79-934e-134711bb5dad)
+
 
 
 The specialized training workshop of the MNE library in Python programming language was held on Thursday, May 16, 2024. This workshop was conducted face-to-face and in a practical environment at the Technical and Engineering Faculty of Azad University, North Tehran Branch.
